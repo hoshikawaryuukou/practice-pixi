@@ -7,6 +7,7 @@
     "start": "npm run dev",
     "build": "tsc && vite build",
     "dev": "vite",
+    "devhost": "vite --host",
     "format": "prettier --write src",
     "format:check": "prettier --check src"
   },
